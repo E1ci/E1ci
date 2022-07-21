@@ -2,15 +2,12 @@
 Hi! This is an easter egg.
 Congratulations you found the first one!
 -->
-
-![matrix (1)](https://user-images.githubusercontent.com/59298950/180291426-39b5c3ea-ce62-4312-9785-fc6fa4a1ef9e.gif)
   </a>
   <a href="https://twitter.com/jonaalzz">
     <img align="left" alt="Jugal Bhatt | Twitter" width="26px" src="https://user-images.githubusercontent.com/59298950/180104350-741d602c-d029-4446-abe9-c89676883e0d.png" />
   <a href="https://www.instagram.com/jonalunaa/">
     <img align="left" alt="Jugal Bhatt | Instagram" width="26px" src="https://user-images.githubusercontent.com/59298950/180104027-ec7c9570-0463-464e-8d3b-e1097cfaa53d.png" />
   </a>
-  <br>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=E1ci&color=orange">
