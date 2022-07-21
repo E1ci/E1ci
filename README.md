@@ -12,6 +12,8 @@ Congratulations you found the first one!
   <br>
   <img src="https://komarev.com/ghpvc/?username=E1ci&color=orange">
   
+  ---
+  
 Hola, soy Jonathan, estudiante de Lic. Diseño Industrial🪓 de Argentina.
 
 
@@ -23,6 +25,8 @@ Hola, soy Jonathan, estudiante de Lic. Diseño Industrial🪓 de Argentina.
 - 🌱 De momento estoy probando las cosas que engloban a discord (Bots). 
 - 🤔 Me encanta todo lo que tiene que ver con las computadoras y en especial el dibujo.
 - 💬 Preguntame lo que quieras!
+  
+  ---
 
 **Languages and Tools:** 
 
